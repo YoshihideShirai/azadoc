@@ -9,7 +9,7 @@ content:
   - url: https://github.com/YoshihideShirai/azadoc
     branches: main
     edit_url: true
-    start_paths: docs
+    start_paths: docs/*
 asciidoc:
   attributes:
     experimental: ''
