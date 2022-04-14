@@ -7,4 +7,6 @@ asciidoc:
     table-caption: false
 nav:
 - modules/ROOT/nav.adoc
+- modules/ゴマフ/nav.adoc
+- modules/ゴマフ-あらし/nav.adoc
 - modules/template/nav.adoc

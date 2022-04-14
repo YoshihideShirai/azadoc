@@ -7,4 +7,5 @@ asciidoc:
     table-caption: false
 nav:
 - modules/ROOT/nav.adoc
+- modules/しながわ水族館/nav.adoc
 - modules/template/nav.adoc
