@@ -2,6 +2,8 @@ include::../partials/header.adoc[]
 
 = はなこ
 
+image::profile.png[]
+
 == 名前
 
 はなこ
