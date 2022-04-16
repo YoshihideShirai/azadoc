@@ -4,5 +4,5 @@ https://yoshihideshirai.github.io/azadoc/
 
 ## Alternatives
 
-- アザラシDB
+- アザラシDB  
 https://sealcloud.an.r.appspot.com/#/browse
