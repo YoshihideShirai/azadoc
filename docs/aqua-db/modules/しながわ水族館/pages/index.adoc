@@ -8,12 +8,7 @@
 == 住居海豹
 
 * ゴマフアザラシ
-** xref:aza-db:ゴマフ-あらし:index.adoc[]
-** こはる
-** ホシ
-** さくら
-** はなこ
-** ふぶき
+include::../partials/nav-ゴマフ.adoc[]
 
 == link
 

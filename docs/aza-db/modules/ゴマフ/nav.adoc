@@ -1,3 +1,3 @@
 
 * xref:index.adoc[]
-** xref:ゴマフ-あらし:index.adoc[]
+include::aqua-db:しながわ水族館:partial$nav-ゴマフ.adoc[]
