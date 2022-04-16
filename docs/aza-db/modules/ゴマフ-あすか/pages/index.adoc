@@ -2,6 +2,8 @@ include::../partials/header.adoc[]
 
 = あすか
 
+image::profile.png[]
+
 == 名前
 
 あすか
