@@ -1,0 +1,51 @@
+include::../partials/header.adoc[]
+
+= ホシ
+
+== 名前
+
+ホシ
+
+== 住所
+
+xref:aqua-db:しながわ水族館:index.adoc[]
+
+== 種別
+
+ゴマフアザラシ
+
+== 性別
+
+雄
+
+== 誕生日
+
+2015/03/21
+
+== 血縁
+
+.血縁ツリー
+[plantuml]
+....
+skinparam componentStyle rectangle
+
+package "親" {
+    [ホゴ]
+    [シズカ]
+}
+
+package "夫婦" {
+    [本人]
+}
+
+[本人] <-up- [ホゴ]
+[本人] <-up- [シズカ]
+....
+
+* 父親 +
+ホゴ
+* 母親 +
+シズカ
+* 子供 +
+なし
+

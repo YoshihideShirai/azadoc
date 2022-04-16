@@ -1,0 +1,51 @@
+include::../partials/header.adoc[]
+
+= ふぶき
+
+== 名前
+
+ふぶき
+
+== 住所
+
+xref:aqua-db:しながわ水族館:index.adoc[]
+
+== 種別
+
+ゴマフアザラシ
+
+== 性別
+
+雌
+
+== 誕生日
+
+野生のため不明
+
+== 血縁
+
+.血縁ツリー
+[plantuml]
+....
+skinparam componentStyle rectangle
+
+package "親" {
+    [野生の父親]
+    [野生の母親]
+}
+
+package "夫婦" {
+    [本人]
+}
+
+[本人] <-up- [野生の父親]
+[本人] <-up- [野生の母親]
+....
+
+* 父親 +
+野生のため不明
+* 母親 +
+野生のため不明
+* 子供 +
+なし
+

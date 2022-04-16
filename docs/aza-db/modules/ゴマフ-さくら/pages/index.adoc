@@ -1,0 +1,50 @@
+include::../partials/header.adoc[]
+
+= さくら
+
+== 名前
+
+さくら
+
+== 住所
+
+xref:aqua-db:しながわ水族館:index.adoc[]
+
+== 種別
+
+ゴマフアザラシ
+
+== 性別
+
+雌
+
+== 誕生日
+
+不明
+
+== 血縁
+
+.血縁ツリー
+[plantuml]
+....
+skinparam componentStyle rectangle
+
+package "親" {
+    [父親不明]
+    [母親不明]
+}
+
+package "夫婦" {
+    [本人]
+}
+
+[本人] <-up- [父親不明]
+[本人] <-up- [母親不明]
+....
+
+* 父親 +
+不明
+* 母親 +
+不明
+* 子供 +
+なし
