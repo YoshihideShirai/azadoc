@@ -26,15 +26,7 @@ xref:aqua-db:しながわ水族館:index.adoc[]
 
 == 血縁
 
-* 父親 +
-不明
-* 母親 +
-不明
-* 子供 +
-なし
-
-== 家計図
-
+.血縁ツリー
 [plantuml]
 ....
 skinparam componentStyle rectangle
@@ -51,4 +43,11 @@ package "夫婦" {
 [本人] <-up- [父親不明]
 [本人] <-up- [母親不明]
 ....
+
+* 父親 +
+不明
+* 母親 +
+不明
+* 子供 +
+なし
 
