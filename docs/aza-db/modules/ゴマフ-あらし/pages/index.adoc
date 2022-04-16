@@ -32,4 +32,20 @@ xref:aqua-db:しながわ水族館:index.adoc[]
 
 == 家計図
 
-不明
+[plantuml]
+....
+skinparam componentStyle rectangle
+
+package "親" {
+    [父親不明]
+    [母親不明]
+}
+
+package "夫婦" {
+    [本人]
+}
+
+[本人] <-up- [父親不明]
+[本人] <-up- [母親不明]
+....
+
