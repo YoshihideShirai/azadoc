@@ -1,7 +1,8 @@
+:imagesdir: ../images/
 
 = あらし
 
-image::../images/profile.png[]
+image::profile.png[]
 
 == 名前
 
