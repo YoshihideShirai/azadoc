@@ -13,12 +13,7 @@
 
 == 血縁
 
-* 父親
-* 母親
-* 子供
-
-== 家計図
-
+.血縁ツリー
 [plantuml]
 ....
 skinparam componentStyle rectangle
@@ -41,4 +36,8 @@ package "夫婦" {
 [子供1] <-up- [夫妻1]
 [子供2] <-up- [夫妻2]
 ....
+
+* 父親
+* 母親
+* 子供
 
