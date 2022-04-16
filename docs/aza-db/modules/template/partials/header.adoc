@@ -1,1 +1,1 @@
-:imagesdir: ../images/
+../../../../../template/partials/header.adoc
