@@ -1,6 +1,8 @@
 
 = あらし
 
+image::../images/profile.png[]
+
 == 名前
 
 あらし
