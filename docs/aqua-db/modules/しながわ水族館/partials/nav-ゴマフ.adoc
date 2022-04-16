@@ -1,5 +1,6 @@
 ** xref:aza-db:ゴマフ-あらし:index.adoc[]
 ** xref:aza-db:ゴマフ-こはる:index.adoc[]
+** xref:aza-db:ゴマフ-あすか:index.adoc[]
 ** xref:aza-db:ゴマフ-ホシ:index.adoc[]
 ** xref:aza-db:ゴマフ-さくら:index.adoc[]
 ** xref:aza-db:ゴマフ-はなこ:index.adoc[]
